@@ -1,12 +1,33 @@
-# React + Vite
+# 💰 Finance Tracker
+A modern and intuitive personal finance tracking web app built using **React**, **Chart.js**, and **Tailwind CSS**. This application allows users to upload expenses, visualize spending trends, and receive insights on financial habits.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 📍 Project URL: [https://github.com/karan0110k/FinanceTracker](https://github.com/karan0110k/FinanceTracker)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 📁 File upload for expense data (CSV/JSON)
+- 📊 Visualize spending using Pie & Bar charts (Chart.js)
+- 💡 AI-based suggestions on where to save or spend
+- 🔒 User-friendly Login & Signup forms
+- 📈 Monthly tracking & category breakdown
+- ⚡ Built with Vite + Tailwind for ultra-fast UI
 
-## Expanding the ESLint configuration
+---
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Frontend  | Libraries & Tools     | Others        |
+|-----------|------------------------|----------------|
+| React     | Chart.js, Lucide Icons | Tailwind CSS   |
+| Vite      | File Upload System     | Responsive UI  |
+| JavaScript | React Router (optional) | Git & GitHub   |
+
+---
+## 🖥️ Screenshots
+
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/karan0110k/FinanceTracker.git
+cd FinanceTracker
